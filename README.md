@@ -1,1 +1,1 @@
-# CNN_on_CIFAR10
+Using Convolution Neural Network to predict the image to which category the animal belongs to.
